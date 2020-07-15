@@ -2,13 +2,13 @@
 
 #### About me:
 - 👱🏼‍♂️ Pronouns: He/Him
-- 🔭 I’m currently working at [Hyatt](https://twitter.com/hyatt) on their [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app
+- 🔭 I’m currently working as an [SDET](https://www.guru99.com/software-developer-engineer-test-sdet.html) with [Hyatt](https://twitter.com/hyatt) on our [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app.
 - 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
 - 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
 - 📫 How to reach me: <dday@ddaypunk.com>
-- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶
+- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶.
 
 <br />
 
