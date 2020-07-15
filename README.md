@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 #### Social profiles:
+
 <br />
 
 <a href="https://facebook.com/ddaypunk.ttv">
@@ -18,20 +19,18 @@
 
 <br />
 
-<!--
-**ddaypunk/ddaypunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👱🏼‍♂️ Pronouns: He/Him
+- 🔭 I’m currently working at [Hyatt](https://twitter.com/hyatt) on their [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app
+- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
+- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
+<!--- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
+- 📫 How to reach me: <dday@ddaypunk.com>
+- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶
 
 <br/>
 
