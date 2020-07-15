@@ -1,9 +1,6 @@
 ### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 #### About me:
-
-<br />
-
 - 👱🏼‍♂️ Pronouns: He/Him
 - 🔭 I’m currently working at [Hyatt](https://twitter.com/hyatt) on their [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app
 - 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
@@ -35,9 +32,9 @@
 #### Blog:
 TBA
 
-<br/>
-
 #### Languages/Tech
 TBA
+
+<br/>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
