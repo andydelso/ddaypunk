@@ -1,7 +1,7 @@
-### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk!
+### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 #### Social profiles:
-<br>
+<br />
 
 <a href="https://facebook.com/ddaypunk.ttv">
   <img align="left" alt="ddaypunk | Facebook" width="35px" src="010-facebook.svg" />
@@ -15,6 +15,8 @@
 <a href="https://twitter.com/ddaypunk">
   <img align="left" alt="ddaypunk | Twitter" width="35px" src="018-twitter.svg" />
 </a>
+
+<br />
 
 <!--
 **ddaypunk/ddaypunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+<br/>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
