@@ -1,9 +1,9 @@
 ### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 #### About me:
-- 👱🏼‍♂️ Pronouns: He/Him
+- 👱🏼‍♂️ Pronouns: He / Him
 - 🔭 I’m currently working as an [SDET](https://www.guru99.com/software-developer-engineer-test-sdet.html) with [Hyatt](https://twitter.com/hyatt) on our [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app.
-- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
+- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning photography 📸, hobby game dev and pixel art 👾.
 - 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
@@ -30,11 +30,13 @@
 <br />
 
 #### Blog:
-TBA
+- Personal - <http://andy.delso.me> 
+- Technical - <https://dev.to/ddaypunk>
 
 #### Languages/Tech
-TBA
-
+- Java, Kotlin, Groovy, JavaScript, Python...
+- Selenium, Appium, Wiremock, RestAssured, Spring, LibGDX, React, Node...
+- Git, Bash, Pixaki, Aseprite, Lightroom...
 <br/>
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
