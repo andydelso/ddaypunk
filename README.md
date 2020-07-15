@@ -1,13 +1,20 @@
 ### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
-<br />
-
-#### Blog:
-TBA
-
-#### Social profiles:
+#### About me:
 
 <br />
+
+- 👱🏼‍♂️ Pronouns: He/Him
+- 🔭 I’m currently working at [Hyatt](https://twitter.com/hyatt) on their [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app
+- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
+- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
+<!--- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
+- 📫 How to reach me: <dday@ddaypunk.com>
+- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶
+
+<br />
+
 <p align="center">
 <a href="https://facebook.com/ddaypunk.ttv">
   <img align="left" alt="ddaypunk | Facebook" width="35px" src="https://raw.githubusercontent.com/ddaypunk/ddaypunk/master/010-facebook.svg" />
@@ -25,18 +32,8 @@ TBA
 
 <br />
 
-#### About me:
-
-<br />
-
-- 👱🏼‍♂️ Pronouns: He/Him
-- 🔭 I’m currently working at [Hyatt](https://twitter.com/hyatt) on their [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app
-- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning hobby game dev and pixel art 👾.
-- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
-<!--- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
-- 📫 How to reach me: <dday@ddaypunk.com>
-- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶
+#### Blog:
+TBA
 
 <br/>
 
