@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk!
+
+#### Social profiles:
+<br>
+
+<a href="https://facebook.com/ddaypunk.ttv">
+  <img align="left" alt="ddaypunk | Facebook" width="35px" src="010-facebook.svg" />
+</a>
+<a href="https://instagram.com/ddaypunk.ttv">
+  <img align="left" alt="ddaypunk | Instagram" width="35px" src="015-instagram.svg" />
+</a>
+<a href="https://twitch.tv/ddaypunk">
+  <img align="left" alt="ddaypunk | Twitch" width="35px" src="031-twitch.svg" />
+</a>
+<a href="https://twitter.com/ddaypunk">
+  <img align="left" alt="ddaypunk | Twitter" width="35px" src="018-twitter.svg" />
+</a>
 
 <!--
 **ddaypunk/ddaypunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
