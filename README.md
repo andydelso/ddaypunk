@@ -1,9 +1,14 @@
 ### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
+<br />
+
+#### Blog:
+TBA
+
 #### Social profiles:
 
 <br />
-
+<p align="center">
 <a href="https://facebook.com/ddaypunk.ttv">
   <img align="left" alt="ddaypunk | Facebook" width="35px" src="https://raw.githubusercontent.com/ddaypunk/ddaypunk/master/010-facebook.svg" />
 </a>
@@ -16,6 +21,7 @@
 <a href="https://twitter.com/ddaypunk">
   <img align="left" alt="ddaypunk | Twitter" width="35px" src="https://raw.githubusercontent.com/ddaypunk/ddaypunk/master/018-twitter.svg" />
 </a>
+</p>
 
 <br />
 
@@ -33,5 +39,8 @@
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶
 
 <br/>
+
+#### Languages/Tech
+TBA
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
