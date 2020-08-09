@@ -33,10 +33,29 @@
 - Personal - <http://andy.delso.me> 
 - Technical - <https://dev.to/ddaypunk>
 
-#### Languages/Tech
-- ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=Java&logoColor=white&labelColor=black&color=red), Kotlin, Groovy, ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A), Python...
-- Selenium, Appium, Wiremock, RestAssured, Spring, LibGDX, ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react), Node...
-- ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff), Bash, Pixaki, Aseprite, Lightroom...
+#### Languages
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=Java&logoColor=%23007396&labelColor=black&color=%23007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%23F7DF1C?style=flat&logo=Kotlin&logoColor=%230095D5&labelColor=black&color=%230095D5)
+![Groovy](https://img.shields.io/badge/-Groovy-%23F7DF1C?style=flat&logo=Groovy&logoColor=%23007396&labelColor=black&color=%23007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat&logo=Python&logoColor=%233776AB&labelColor=black&color=%233776AB)
+
+#### Frameworks
+![Selenium](https://img.shields.io/badge/-Selenium-green)
+![Appium](https://img.shields.io/badge/-Appium-purple)
+![Wiremock](https://img.shields.io/badge/-Wiremock-orange)
+![RestAssured](https://img.shields.io/badge/-RestAssued-blue)
+![Spring](https://img.shields.io/badge/-Spring-%23F7DF1C?style=flat&logo=Spring&logoColor=%236DB33F&labelColor=black&color=%236DB33F)
+![LibGdx](https://img.shields.io/badge/-Wiremock-orange)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=React&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB)
+![Node](https://img.shields.io/badge/-Node-%23282C34?style=flat&logo=Node.js&logoColor=%23339933&labelColor=black&color=%23339933)
+
+#### Tools
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=black&&logoColor=%23F05032)
+![Bash](https://img.shields.io/badge/-Bash-%23F05032?style=flat&logo=gnu_bash&logoColor=%234EAA25&labelColor=black&&logoColor=%234EAA25)
+Pixaki
+Aseprite
+Lightroom
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddaypunk&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaypunk&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
