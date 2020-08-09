@@ -41,20 +41,20 @@
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat&logo=Python&logoColor=%233776AB&labelColor=black&color=%233776AB)
 
 #### Frameworks
-![Selenium](https://img.shields.io/badge/-Selenium-green)
-![Appium](https://img.shields.io/badge/-Appium-purple)
-![Wiremock](https://img.shields.io/badge/-Wiremock-orange)
-![RestAssured](https://img.shields.io/badge/-RestAssued-blue)
+![Selenium](https://img.shields.io/badge/-Selenium-%234EAA25?style=flat&logoColor=%234EAA25)
+![Appium](https://img.shields.io/badge/-Appium-%23330033?style=flat&logoColor=%23330033)
+![Wiremock](https://img.shields.io/badge/-Wiremock-%230033ff?style=flat&logoColor=%230033ff)
+![RestAssured](https://img.shields.io/badge/-RestAssured-%230066ff?style=flat&logoColor=%230066ff)
 ![Spring](https://img.shields.io/badge/-Spring-%23F7DF1C?style=flat&logo=Spring&logoColor=%236DB33F&labelColor=black&color=%236DB33F)
-![LibGdx](https://img.shields.io/badge/-Wiremock-orange)
+![LibGdx](https://img.shields.io/badge/-LibGDX-%23F05032?style=flat&logoColor=%23F05032)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=React&logoColor=%2361DAFB&labelColor=black&color=%2361DAFB)
 ![Node](https://img.shields.io/badge/-Node-%23282C34?style=flat&logo=Node.js&logoColor=%23339933&labelColor=black&color=%23339933)
 
 #### Tools
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=black&&logoColor=%23F05032)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=black&logoColor=%23F05032)
 ![Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat&logo=gnu%20bash&logoColor=%234EAA25&labelColor=black&&logoColor=%234EAA25)
-![Pixaki](https://img.shields.io/badge/-Pixaki-green)
-![Aseprite](https://img.shields.io/badge/-Aseprite-green)
+![Pixaki](https://img.shields.io/badge/-Pixaki-%23990033?style=flat&logoColor=%23990033)
+![Aseprite](https://img.shields.io/badge/-Aseprite-%23d3d3d3?style=flat&logoColor=%23d3d3d3)
 ![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-%23AED6EAAED6EA?style=flat&logo=adobe%20lightroom%20classic&logoColor=%23AED6EA&labelColor=black&&logoColor=%23AED6EA)
 <br/>
 
