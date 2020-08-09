@@ -39,6 +39,6 @@
 - Git, Bash, Pixaki, Aseprite, Lightroom...
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddaypunk&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddaypunk&show_icons=true&theme=gruvbox&inclue_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
