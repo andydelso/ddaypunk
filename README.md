@@ -52,10 +52,10 @@
 
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23F05032&labelColor=black&&logoColor=%23F05032)
-![Bash](https://img.shields.io/badge/-Bash-%23F05032?style=flat&logo=gnu_bash&logoColor=%234EAA25&labelColor=black&&logoColor=%234EAA25)
-Pixaki
-Aseprite
-Lightroom
+![Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat&logo=gnu%20bash&logoColor=%234EAA25&labelColor=black&&logoColor=%234EAA25)
+![Pixaki](https://img.shields.io/badge/-Pixaki-green)
+![Aseprite](https://img.shields.io/badge/-Aseprite-green)
+![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-%23AED6EAAED6EA?style=flat&logo=adobe%20lightroom%20classic&logoColor=%23AED6EA&labelColor=black&&logoColor=%23AED6EA)
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddaypunk&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaypunk&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
