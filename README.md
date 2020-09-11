@@ -1,4 +1,4 @@
-### Hi there 👋 my name is [Andy](http://andy.delso.me) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
+### Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 #### About me:
 - 👱🏼‍♂️ Pronouns: He / Him
@@ -7,7 +7,7 @@
 - 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
-- 📫 How to reach me: <dday@ddaypunk.com>
+- 📫 How to reach me: <andy@delso.dev>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶.
 
 <br />
@@ -30,7 +30,7 @@
 <br />
 
 #### Blog:
-- Personal - <http://andy.delso.me> 
+- Personal - <http://andy.delso.dev> 
 - Technical - <https://dev.to/ddaypunk>
 
 #### Languages
