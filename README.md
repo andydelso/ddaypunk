@@ -3,12 +3,12 @@
 #### About me:
 - 👱🏼‍♂️ Pronouns: He / Him
 - 🔭 I’m currently working as an [SDET](https://www.guru99.com/software-developer-engineer-test-sdet.html) with [Hyatt](https://twitter.com/hyatt) on our [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app.
-- 🌱 I’m currently learning Javascript (React and Node), Kotlin, and Groovy. I am also learning photography 📸, hobby game dev and pixel art 👾.
+- 🌱 I’m currently learning Android development. I am also an amateur photographer 📸, hobby game dev and pixel artist 👾.
 - 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Java, Selenium, Appium, Wiremock, QA, Test Automation...
+- 💬 Ask me about Java, Kotlin, Selenium, Appium, Wiremock, QA, Test Automation...
 - 📫 How to reach me: <andy@delso.dev>
-- ⚡ Fun fact: I used to play 🎸 in a pop punk band 🎶.
+- ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
 
 <br />
 
