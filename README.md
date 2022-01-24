@@ -3,10 +3,12 @@
 #### About me:
 - 👱🏼‍♂️ Pronouns: He / Him
 - 🔭 I’m currently working as an [SDET](https://www.guru99.com/software-developer-engineer-test-sdet.html) with [Hyatt](https://twitter.com/hyatt) on our [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app.
-- 🌱 I’m currently learning Android development. I am also an amateur photographer 📸, hobby game dev and pixel artist 👾.
-- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, and indie games 🎮.
+- 🌱 I’m currently learning Android and web development. I am also an amateur photographer 📸, hobby game dev and pixel artist 👾.
+- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, mock data 📊, and game development 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Java, Kotlin, Selenium, Appium, Wiremock, QA, Test Automation...
+- 💬 Ask me about Java, Kotlin, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
+- 🌎 Currently exploring [Playwright](https://playwright.dev/), [Espresso](https://developer.android.com/training/testing/espresso), and [GraphQL](https://graphql.org/)
+- 🎮 Currently Playing: [Ghost of Tsushima: Director's Cut](https://store.playstation.com/en-us/product/UP9000-CUSA11456_00-GHOSTDIRECTORPS4) (PS5), [Pokemon BDSP](https://diamondpearl.pokemon.com/en-us/) (Switch), [Cyberpunk2077](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj9y5Hn6cr1AhVSk4kEHbW7D-UQFnoECAgQAQ&url=https%3A%2F%2Fwww.cyberpunk.net%2F&usg=AOvVaw3rYNtNOmtmW5Zaf4qmh5Vm) (PC)
 - 📫 How to reach me: <andy@delso.dev>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
 
