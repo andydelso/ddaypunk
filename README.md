@@ -38,8 +38,9 @@
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=Java&logoColor=%23007396&labelColor=black&color=%23007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F7DF1C?style=flat&logo=Kotlin&logoColor=%230095D5&labelColor=black&color=%230095D5)
-![Groovy](https://img.shields.io/badge/-Groovy-%23F7DF1C?style=flat&logo=Groovy&logoColor=%23007396&labelColor=black&color=%23007396)
+![Groovy](https://img.shields.io/badge/-Groovy-%23F7DF1C?style=flat&logoColor=%23007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat&logo=typescript&logoColor=%230066ff&labelColor=black&color=%230066ff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat&logo=Python&logoColor=%233776AB&labelColor=black&color=%233776AB)
 
 #### Frameworks
