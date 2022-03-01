@@ -8,7 +8,7 @@
 <!--- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java, Kotlin, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
 - 🌎 Currently exploring [Playwright](https://playwright.dev/), [Espresso](https://developer.android.com/training/testing/espresso), and [GraphQL](https://graphql.org/)
-- 🎮 Currently Playing: [Ghost of Tsushima: Director's Cut](https://store.playstation.com/en-us/product/UP9000-CUSA11456_00-GHOSTDIRECTORPS4) (PS5), [Pokemon BDSP](https://diamondpearl.pokemon.com/en-us/) (Switch), [Cyberpunk2077](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj9y5Hn6cr1AhVSk4kEHbW7D-UQFnoECAgQAQ&url=https%3A%2F%2Fwww.cyberpunk.net%2F&usg=AOvVaw3rYNtNOmtmW5Zaf4qmh5Vm) (PC)
+- 🎮 Currently Playing: [Nier Automata: BECOME AS GODS](https://www.xbox.com/en-US/games/store/nierautomata-become-as-gods-edition/bppzvt8bz15n) (XB/WIN), [Pokemon Legends Arceus](https://legends.pokemon.com/en-us/) (Switch), [Cyberpunk2077](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj9y5Hn6cr1AhVSk4kEHbW7D-UQFnoECAgQAQ&url=https%3A%2F%2Fwww.cyberpunk.net%2F&usg=AOvVaw3rYNtNOmtmW5Zaf4qmh5Vm) (PC)
 - 📫 How to reach me: <andy@delso.dev>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
 
