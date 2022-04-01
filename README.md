@@ -2,7 +2,7 @@
 
 #### About me:
 - 👱🏼‍♂️ Pronouns: He / Him
-- 🔭 I’m currently working as an [SDET](https://www.guru99.com/software-developer-engineer-test-sdet.html) with [Hyatt](https://twitter.com/hyatt) on our [World of Hyatt](https://world.hyatt.com/content/gp/en/rewards/mobile.html) mobile app.
+- 🔭 I’m currently working as an **Staff Test Engineer** with [M1](https://twitter.com/m1finance) leading efforts in Android mobile automated tests.
 - 🌱 I’m currently learning Android and web development. I am also an amateur photographer 📸, hobby game dev and pixel artist 👾.
 - 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, mock data 📊, and game development 🎮.
 <!--- - 🤔 I’m looking for help with ... -->
