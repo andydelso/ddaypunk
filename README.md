@@ -35,7 +35,7 @@
 #### Check out my [Personal Site](http://andy.delso.dev)
 #### 📕 Latest dev.to posts [@ddaypunk](https://dev.to/ddaypunk)
 <!-- BLOG-POST-LIST:START -->
-WIP
+- [Using a Component Model in Selenium to Increase Maintainability and Reusability](https://dev.to/ddaypunk/how-we-use-a-component-model-in-selenium-to-increase-maintainability-1nk0)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
