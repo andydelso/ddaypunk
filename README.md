@@ -8,7 +8,7 @@
 <!--- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Java, Kotlin, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
 - 🌎 Currently exploring [Playwright](https://playwright.dev/), [Espresso](https://developer.android.com/training/testing/espresso), and [GraphQL](https://graphql.org/)
-- 🎮 Currently Playing: [Nier Automata: BECOME AS GODS](https://www.xbox.com/en-US/games/store/nierautomata-become-as-gods-edition/bppzvt8bz15n) (XB/WIN), [Pokemon Legends Arceus](https://legends.pokemon.com/en-us/) (Switch), [Cyberpunk2077](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj9y5Hn6cr1AhVSk4kEHbW7D-UQFnoECAgQAQ&url=https%3A%2F%2Fwww.cyberpunk.net%2F&usg=AOvVaw3rYNtNOmtmW5Zaf4qmh5Vm) (PC)
+- 🎮 Currently Playing: [Guardians of the Galaxy](https://www.microsoft.com/en-us/store/p/marvels-guardians-of-the-galaxy/9p2gtdk0thpq) (XB/WIN), [Pokemon Legends Arceus](https://legends.pokemon.com/en-us/) (Switch), [Assassin's Creed 3 Remastered](https://store.playstation.com/en-us/product/UP0001-CUSA11711_00-AC3GAMEPS4000001) (PS5), [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/) (PC)
 - 📫 How to reach me: <andy@delso.dev>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
 
@@ -39,15 +39,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages
-![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=Java&logoColor=%23007396&labelColor=black&color=%23007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%23F7DF1C?style=flat&logo=Kotlin&logoColor=%230095D5&labelColor=black&color=%230095D5)
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat&logo=Java&logoColor=%23007396&labelColor=black&color=%23007396)
 ![Groovy](https://img.shields.io/badge/-Groovy-%23F7DF1C?style=flat&logoColor=%23007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat&logo=typescript&logoColor=%230066ff&labelColor=black&color=%230066ff)
 ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat&logo=Python&logoColor=%233776AB&labelColor=black&color=%233776AB)
 
 ### Frameworks
-![Selenium](https://img.shields.io/badge/-Selenium-%234EAA25?style=flat&logoColor=%234EAA25)
+![Playwright](https://img.shields.io/badge/-Playwright-%234EAA25?style=flat&logo=playwright&color=%23F05032)
+![Selenium](https://img.shields.io/badge/-Selenium-%234EAA25?style=flat&logo=Selenium&logoColor=%234EAA25&labelColor=black&color=%234EAA25)
 ![Appium](https://img.shields.io/badge/-Appium-%23330033?style=flat&logoColor=%23330033)
 ![Wiremock](https://img.shields.io/badge/-Wiremock-%230033ff?style=flat&logoColor=%230033ff)
 ![RestAssured](https://img.shields.io/badge/-RestAssured-%230066ff?style=flat&logoColor=%230066ff)
