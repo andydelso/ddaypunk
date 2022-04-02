@@ -32,8 +32,7 @@
 <br />
 
 ### Blogs:
-- Personal - <http://andy.delso.dev> 
-
+#### Check out my [Personal Site](http://andy.delso.dev)
 #### 📕 Latest dev.to posts [@ddaypunk](https://dev.to/ddaypunk)
 <!-- BLOG-POST-LIST:START -->
 WIP
