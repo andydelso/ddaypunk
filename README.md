@@ -1,16 +1,17 @@
 ## Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk)
 
 ### About me:
-- 👱🏼‍♂️ Pronouns: He / Him
-- 🔭 I’m currently working as an **Staff Test Engineer** with [M1](https://twitter.com/m1finance) leading efforts in Android mobile automated tests.
-- 🌱 I’m currently learning Android and web development. I am also an amateur photographer 📸, hobby game dev and pixel artist 👾.
-- 👨🏼‍💻 I’m looking to collaborate on automation frameworks 🦾, testing 🔍, mock data 📊, and game development 🎮.
-<!--- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Java, Kotlin, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
-- 🌎 Currently exploring [Playwright](https://playwright.dev/), [Espresso](https://developer.android.com/training/testing/espresso), and [GraphQL](https://graphql.org/)
-- 🎮 Currently Playing: [Guardians of the Galaxy](https://www.microsoft.com/en-us/store/p/marvels-guardians-of-the-galaxy/9p2gtdk0thpq) (XB/WIN), [Pokemon Legends Arceus](https://legends.pokemon.com/en-us/) (Switch), [Assassin's Creed 3 Remastered](https://store.playstation.com/en-us/product/UP0001-CUSA11711_00-AC3GAMEPS4000001) (PS5), [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/) (PC)
-- 📫 How to reach me: <andy@delso.dev>
+- 👱🏼‍♂️ Pronouns: He / Him / His
+- 🔭 I’m currently working as an **Mobile Engineer, Android** with [M1](https://twitter.com/m1finance).
+- 🌱 I recently transitioned to mobile engineer but I am still learning daily about Android and GraphQL
+- 🧠 I'm interested in an amateur photography 📸, hobby game development and pixel art 👾.
+- 👨🏼‍💻 I’m looking to collaborate on Android apps, automation frameworks 🦾, testing 🔍, mock data 📊, and game development 🎮.
+- 💬 Ask me about Java, Kotlin, Android, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
+- 🌎 Currently exploring [Android](https://developer.android.com/), [Espresso](https://developer.android.com/training/testing/espresso), and [GraphQL](https://graphql.org/)
+- 🎮 Currently Playing: [Mafia: Definitive Edition](https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/) (PC), [Ori and the Will of the Wisps](https://www.nintendo.com/store/products/ori-and-the-will-of-the-wisps-switch/) (Switch), [Assassin's Creed 3 Remastered](https://store.playstation.com/en-us/product/UP0001-CUSA11711_00-AC3GAMEPS4000001) (PS5)
+- 📫 How to reach me: <andy@delso.me>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
+<!--- - 🤔 I’m looking for help with ... -->
 
 <br />
 
