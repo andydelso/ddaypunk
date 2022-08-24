@@ -34,8 +34,8 @@
 
 ### 📕 Latest dev.to posts [@ddaypunk](https://dev.to/ddaypunk)
 <!-- BLOG-POST-LIST:START -->
-- [My studies of Head First Android Development - 3rd Edition - Ch 5 &amp; 6](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-5-6-3bfj)
-- [My studies of Head First Android Development - 3rd Edition - Ch 3 &amp; 4](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-3-4-1e91)
+- [My Studies of Head First Android Development 3rd Edition: Chapters 5 &amp; 6](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-5-6-3bfj)
+- [My Studies of Head First Android Development 3rd Edition: Chapters 3 &amp; 4](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-ch-3-4-1e91)
 - [My Studies of Head First Android Development 3rd Edition: Chapters 1 &amp; 2](https://dev.to/ddaypunk/my-studies-of-head-first-android-development-3rd-edition-chapters-1-2-2l1c)
 - [Using a Component Model in Selenium to Increase Maintainability and Reusability](https://dev.to/ddaypunk/how-we-use-a-component-model-in-selenium-to-increase-maintainability-1nk0)
 <!-- BLOG-POST-LIST:END -->
