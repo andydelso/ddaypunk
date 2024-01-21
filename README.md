@@ -1,6 +1,6 @@
 <!--- [![@ddaypunk's Holopin board](https://holopin.io/api/user/board?user=ddaypunk)](https://holopin.io/@ddaypunk) -->
 
-## Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk! ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk) and I am looking for new opportunities!
+## Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk) and I am looking for new opportunities!
 
 ### About me:
 - 👱🏼‍♂️ Pronouns: He / Him / His
