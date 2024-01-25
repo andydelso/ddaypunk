@@ -1,18 +1,18 @@
 <!--- [![@ddaypunk's Holopin board](https://holopin.io/api/user/board?user=ddaypunk)](https://holopin.io/@ddaypunk) -->
 
-## Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk ![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk) and I am looking for new opportunities!
+## Hi there 👋 my name is [Andy](http://andy.delso.dev) a.k.a. ddaypunk![](https://visitor-badge.glitch.me/badge?page_id=ddaypunk.ddaypunk) and I am looking for new opportunities!
 
 ### About me:
 - 👱🏼‍♂️ Pronouns: He / Him / His
 - 🔭 Former **Mobile Engineer, Android** with [M1](https://twitter.com/m1finance) currently looking for new opportunities.
-- 🌱 Striving to be an expert in Mobile Development with Jetpack Compose and modern app architectures
-- 🧠 I'm interested in an amateur photography 📸, hobby game development and pixel art 👾.
+- 🌱 Striving to be an expert in Mobile Development with Jetpack Compose, Kotlin Multiplatform and modern app architectures.
+- 🧠 I'm also interested in an amateur photography 📸, hobby game development 🕹️ and pixel art 👾.
 - 👨🏼‍💻 I’m looking to collaborate on Android apps, automation frameworks 🦾, testing 🔍, mock data 📊, and game development 🎮.
 - 💬 Ask me about Java, Kotlin, Android, Jetpack Compose, Junit, Selenium, Appium, Playwright, Wiremock, QA, Test Automation...
 - 🌎 Currently exploring [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html), [Vico Charting](https://patrykandpatrick.com/vico/wiki/), and [Jetpack Compose Canvas](https://developer.android.com/jetpack/compose/graphics/draw/overview)
 - 🎮 Currently Playing: [Sea of Stars](https://www.nintendo.com/us/store/products/sea-of-stars-switch/) (Switch), [God of War Ragnarok](https://store.playstation.com/en-us/product/UP9000-CUSA34384_00-GOWRAGNAROK00000) (PS5), and various games on Analogue Pocket
 - 🎮 According to [The 3-D Bartle Test of Gamer Psychology](https://mudhalla.net/test/bartle3d.php) my gamer type is **Alchemist (fhp0)** in that my "ideal game caters to someone who doesn't know what they want". Yet, I am "a community builder who helps others grow and reach their full potential developing solid friendships based on mutual respect. When he encounters an obstacle he will add it to his list of puzzles to solve. He enjoys the occasional get together to discuss the latest news and developments. He enjoys a good gamble as long as the odds are in his favor. He prefers a unique world world with great depth that encourages people to interact and engage in challenges."
-- 📫 How to reach me: <andy@delso.me>
+- 📫 How to reach me: <andy@delso.dev>
 - ⚡ Fun fact: I used to play 🎸 in a pop punk band named [Almost Finley](https://www.youtube.com/channel/UCmUG-MOhYloc4GRuCHjHjBQ)🎶.
 <!--- - 🤔 I’m looking for help with ... -->
 
